@@ -1,2 +1,3 @@
 # learning_git
+-- Every things will be ok --
 - Ali Nasir ^-^
